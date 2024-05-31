@@ -1,0 +1,62 @@
+[
+    {
+        "Nombre": "Juan Rodriguez",
+        "CC": "987654321",
+        "Edad": 60,
+        "Patologia": "Hipertension"
+    },
+    {
+        "Nombre": "Juan Carlos Gomez",
+        "CC": "456789123",
+        "Edad": 30,
+        "Patologia": "Asma"
+    },
+    {
+        "Nombre": "Luisa Fernandez",
+        "CC": "321654987",
+        "Edad": 25,
+        "Patologia": "Alergias"
+    },
+    {
+        "Nombre": "Pedro Lopez",
+        "CC": "753159852",
+        "Edad": 55,
+        "Patologia": "Enfermedad cardiaca"
+    },
+    {
+        "Nombre": "Laura Sanchez",
+        "CC": "852753159",
+        "Edad": 35,
+        "Patologia": "Cefaleas"
+    },
+    {
+        "Nombre": "Jose Ramirez",
+        "CC": "951357258",
+        "Edad": 40,
+        "Patologia": "Gastritis"
+    },
+    {
+        "Nombre": "Marta Diaz",
+        "CC": "357951456",
+        "Edad": 28,
+        "Patologia": "Depresion"
+    },
+    {
+        "Nombre": "Raul Torres",
+        "CC": "654258951",
+        "Edad": 65,
+        "Patologia": "Alzheimer"
+    },
+    {
+        "Nombre": "ana maria",
+        "CC": "8975656",
+        "Edad": "21",
+        "Patologia": "Cadera mala"
+    },
+    {
+        "Nombre": "ANDRES BANQUEZ",
+        "CC": "1234",
+        "Edad": "22",
+        "Patologia": "DEMENCIA"
+    }
+]
